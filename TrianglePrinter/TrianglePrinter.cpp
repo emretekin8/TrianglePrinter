@@ -137,7 +137,6 @@ void tersUcgen(int size) {
 			cout << "Program sonlandirildi!";
 			return;
 		}
-		++tryingTime;
 	}
 
 	int i = rows;//while loop variable
